@@ -16,8 +16,8 @@ export default function App() {
         Sign In
       </Link>
 
-      <Link href="/subscriptions/spotify" className="mt-4 rounded bg-success p-4 text-white">
-        Spotify Subscription
+      <Link href="/subscriptions/netflix" className="mt-4 rounded bg-success p-4 text-white">
+        Netflix Subscription
       </Link>
       <Link
         href={{
